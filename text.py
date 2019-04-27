@@ -5,7 +5,7 @@ import json
 import urllib
 
 #取得したアプリケーションIDを指定
-appid = "dj00aiZpPXUyOHg5aTlsRXhkaSZzPWNvbnN1bWVyc2VjcmV0Jng9MGE-"
+appid = "***"
 
 #キーフレーズ抽出APIのURL
 pageurl = "https://jlp.yahooapis.jp/KeyphraseService/V1/extract"
